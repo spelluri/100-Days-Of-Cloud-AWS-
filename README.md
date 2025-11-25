@@ -68,5 +68,5 @@ templates/          → Templates for daily logs & projects
 ---
 
 ## 🚀 Let’s Go!
-This is a continuous learning journey—contributions, suggestions, and discussions are welcome!
+This is a continuous learning journey: contributions, suggestions, and discussions are welcome!
 
